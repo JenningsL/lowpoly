@@ -1,2 +1,2 @@
-## lowpoly
+## lowpoly image processor
 
